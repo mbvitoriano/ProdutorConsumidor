@@ -1,0 +1,11 @@
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor.deps.json
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor.runtimeconfig.json
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor.runtimeconfig.dev.json
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor.dll
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/bin/Debug/netcoreapp3.1/ProdutorXConsumidor.pdb
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/obj/Debug/netcoreapp3.1/ProdutorXConsumidor.csprojAssemblyReference.cache
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/obj/Debug/netcoreapp3.1/ProdutorXConsumidor.AssemblyInfoInputs.cache
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/obj/Debug/netcoreapp3.1/ProdutorXConsumidor.AssemblyInfo.cs
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/obj/Debug/netcoreapp3.1/ProdutorXConsumidor.dll
+/home/mbvitoriano/Desktop/ProdutorXConsumidor/obj/Debug/netcoreapp3.1/ProdutorXConsumidor.pdb
